@@ -1,6 +1,6 @@
 # City Distance Checker
 
-This script allows you to check if people from a CSV file live within a specified radius of a given city. The script will update the CSV file with a new column that indicates whether each person is within the specified radius.
+This script allows you to check if people from a CSV file live within a specified radius of a given city. The script outputs a new CSV file with a new column that indicates whether each person is within the specified radius.
 
 ## Requirements
 1. Python 3.x
